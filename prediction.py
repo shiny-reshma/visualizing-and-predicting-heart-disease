@@ -1,4 +1,5 @@
 # importing required libraries
+py -m pip install package-name
 import numpy as np
 import pandas as pd
 import pickle
